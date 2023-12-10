@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 
+const variable = "nose"
 function App() {
   return (
     <div className="App">
