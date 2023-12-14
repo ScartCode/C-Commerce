@@ -1,0 +1,96 @@
+/*!************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[12].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[12].use[3]!./src/app/Principal/page.css ***!
+  \************************************************************************************************************************************************************************************************************************************************************************/
+.img_test{
+  width: 840px;
+  height: 450px;
+}
+.test_img{
+  display: block;
+  position: relative;
+}
+.div_principal{
+  display: flex;
+  justify-content: space-between;
+}
+/*!***********************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[12].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[12].use[3]!./src/components/Navbar.css ***!
+  \***********************************************************************************************************************************************************************************************************************************************************************/
+*{
+  padding: 0;
+  margin: 0;
+}
+.nav_menu{
+  display: flex;
+  justify-content: space-between;
+  padding: 0px 50px;
+  background-color: #B8B8B8;
+}
+.padding_h2{
+  padding-left: 30px;
+  display: flex;
+  align-items: center;
+}
+.image_text{
+  display: flex;
+}
+.nav_menu ul{
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+}
+.nav_menu ul li{
+  font-size:1.5rem;
+  list-style: none;
+  font-style: none;
+}
+.design_link{
+  text-decoration: none;
+  color: black;
+}
+
+/*!***************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[12].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[12].use[3]!./src/components/Producto_R.css ***!
+  \***************************************************************************************************************************************************************************************************************************************************************************/
+body{
+    background-color: #f0f0f0;
+}
+.productos_r{
+    position: relative;
+    display: flex;
+    width: 100%;
+    max-width: 1400px;
+    height: 560px ;
+    justify-content: center;
+    margin: auto;
+}
+.complete_contain{
+    width: 20%;
+    display: flex;
+    flex-direction: column;
+}
+
+.top_white{
+    display: flex;
+    justify-content: center;
+    margin: 0 10px;
+    padding: 10px 0;
+    background-color: #d9d9d9;
+}
+.top_white img{
+    border: solid 1px  #e3e3e3;
+    width: 100%;
+    padding: 0 10px;
+}
+.bottom_black{
+    background-color: #232323;
+    display: flex;
+    justify-content: center;
+    margin: 0 10px;
+    height: 240px;
+    color: #e3e3e3;
+}
+.content_botom{
+    width: 100%;
+    
+}
