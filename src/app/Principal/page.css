@@ -1,0 +1,12 @@
+.img_test{
+  width: 840px;
+  height: 450px;
+}
+.test_img{
+  display: block;
+  position: relative;
+}
+.div_principal{
+  display: flex;
+  justify-content: space-between;
+}
